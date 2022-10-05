@@ -1002,5 +1002,3 @@ function [f] = advectionDiffusionEquation(f,nx,ny,hx,hy,gamma,u,v,dt,solve)
             end
         end
 end
-
-
